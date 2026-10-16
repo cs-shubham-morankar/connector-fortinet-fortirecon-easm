@@ -6,5 +6,3 @@
     - Unassign Tag
 - Added a new query parameter `Tags Not In` in the action `Get Issues Discovered`
 - Updated output schema for the action `Get Issues Discovered`
-
-Added a new query parameter Tags Not In, and updated the output schema of the Get Issues Discovered action. 
