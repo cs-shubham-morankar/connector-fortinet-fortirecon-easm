@@ -1,6 +1,6 @@
 #### The following enhancements have been made to the Fortinet FortiRecon EASM Connector in version 1.3.0:
 
-- Added below actions
+- Added the following new actions and their associated playbooks:
     - Add Issue Comments
     - Assign Tag
     - Unassign Tag
